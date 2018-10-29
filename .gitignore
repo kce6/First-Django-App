@@ -1,0 +1,4 @@
+django1
+*.DS_Store
+*.pyc
+__pycache__
